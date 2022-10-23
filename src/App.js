@@ -32,7 +32,7 @@ function App() {
             </div>
             <div className="text-green-600" key={e.id}>
               {e.question.toLowerCase().includes(question.toLowerCase()) ? (
-                <div>Đáp án: {e.answer}</div>
+                <div className="mb-5">Đáp án: {e.answer}</div>
               ) : (
                 ""
               )}
