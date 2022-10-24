@@ -848,4 +848,87 @@ export const cauhoi = [
       "UEH được tổ chức Eduniversal xếp hạng Top 1000 trường đào tạo kinh doanh tốt nhất thế giới từ năm nào?",
     answer: "Từ năm 2014 đến nay ",
   },
+  {
+    id: 148,
+    question:
+      "Thời gian mà sinh viên nghỉ học tạm thời (bảo lưu) nếu có, được tính vào  thời gian đào tạo tối đa, đúng hay sai?",
+    answer: "Đúng ",
+  },
+  {
+    id: 149,
+    question: "Sinh viên chọn câu đúng trong các câu sau:",
+    answer:
+      "Thời gian đào tạo theo kế hoạch của một chương trình đào tạo Đại học chính quy gồm 07 học kỳ chính",
+  },
+  {
+    id: 150,
+    question: "Sinh viên chọn câu đúng trong các câu sau:",
+    answer:
+      "Thời gian đào tạo theo kế hoạch của một chương trình đào tạo Đại học chính quy gồm 07 học kỳ chính",
+  },
+  {
+    id: 151,
+    question: "Năm học ở UEH gồm bao nhiêu học kỳ?",
+    answer: "2 học kỳ chính, 1 học kỳ phụ",
+  },
+  {
+    id: 152,
+    question: "Website của Phòng Đào tạo là",
+    answer: "daotao.ueh.edu.vn.",
+  },
+  {
+    id: 153,
+    question:
+      "Khi sinh viên đăng ký học cải thiện điểm, kết quả học tập nào được chọn để tính vào điểm trung bình tích lũy?",
+    answer: "Kết quả cao nhất trong các lần học",
+  },
+  {
+    id: 154,
+    question: "Sinh viên đăng ký học cải thiện khi nào?",
+    answer:
+      "Khi điểm học phần đó &gt;=5 điểm và sinh viên muốn đăng ký học lại để cải thiện điểm",
+  },
+  {
+    id: 155,
+    question:
+      "Sinh viên có được xét chuyển điểm giữa các học phần tương đương khi đăng ký họccùng lúc 2 chương trình đào tạo (học song ngành/song chuyên ngành",
+    answer: "có",
+  },
+  {
+    id: 156,
+    question:
+      "Hạng tốt nghiệp của sinh viên có kết quả học tập toàn khóa loại xuất sắc và giỏi sẽ bịgiảm đi một mức nếu sinh viên có số tín chỉ của các học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình đào tạo:",
+    answer: "đúng",
+  },
+  {
+    id: 157,
+    question:
+      "Hạng tốt nghiệp của sinh viên có kết quả học tập toàn khóa loại xuất sắc và giỏi sẽ bị giảm đi một mức nếu sinh viên đã bị kỷ luật từ mức Cảnh cáo trở lên trong thời gian học . Không có quy định xếp hạng tốt nghiệp",
+    answer: "đúng",
+  },
+  {
+    id: 158,
+    question:
+      "Trong quá trình học tại UEH, sinh viên có được phép đăng ký học chương trình đào tạo thứ hai không?",
+    answer: "Được, nhưng phải đáp ứng điều kiện theo quy định",
+  },
+  {
+    id: 159,
+    question:
+      "Sinh viên còn trong thời gian đào tạo kế hoạch của khóa học có được phép nghỉ học tạm thời và bảo lưu kết quả học tập không?",
+    answer: "Được, nhưng phải đáp ứng điều kiện theo quy định",
+  },
+  {
+    id: 160,
+    question:
+      "UEH tổ chức và quản lý đào tạo trình độ đại học, hình thức đào tạo chính quy theo Quy chế nào?",
+    answer:
+      "1796/QĐ-ĐHKT-ĐT ngày 30 tháng 6 năm 2021 của Hiệu trưởng Trường Đại học Kinh tế TP. Hồ Chí Minh",
+  },
+  {
+    id: 161,
+    question: "Sinh viên chọn câu đúng trong các câu sau:",
+    answer:
+      "Đối với học phần bắt buộc có điểm học phần không đạt, sinh viên bắt buộc phải đăng ký học lại khi học phần đó được tổ chức giảng dạy",
+  },
 ];
