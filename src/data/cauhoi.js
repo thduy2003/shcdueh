@@ -1126,4 +1126,109 @@ export const cauhoi = [
     answer:
       "Phát tán thư rác, phần mềm độc hại, thiết lập hệ thống thông tin giả mạo, lừa đảo",
   },
+  {
+    id: 195,
+    question:
+      "Nội dung quan điểm thứ nhất của “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới”?",
+    answer:
+      "3.     	Kinh tế tập thể là thành phần kinh tế quan trọng, phải được củng cố và phát triển cùng kinh tế nhà nước trở thành nền tảng vững chắc của nền kinh tế quốc dân",
+  },
+  {
+    id: 196,
+    question:
+      "Nghị quyết số 19-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022) đánh giá một trong những hạn chế sau 15 năm thực hiện Nghị quyết số 26 tại Hội nghị Trung ương bẩy Khóa X (2008) về “nông nghiệp, nông dân, nông thôn” là:",
+    answer: "Phát triển nông nghiệp, nông dân, nông thôn thiếu bền vững",
+  },
+  {
+    id: 197,
+    question: "Bạn tự kiểm tra đạo văn bằng ứng dụng trực tuyến tại đường dẫn",
+    answer: "kiemtradaovan.ueh.edu.vn",
+  },
+  {
+    id: 198,
+    question: "Các giai đoạn trong hoạt động nghiên cứu sáng tạo bao gồm?",
+    answer:
+      "Nghiên cứu cơ bản - Nghiên cứu ứng dụng - Thử nghiệm mô phỏng - Phát triển dịch vụ và sản phẩm - Đưa ra thị trường",
+  },
+  {
+    id: 199,
+    question:
+      "Đâu không phải là yếu tố dẫn đến thất bại của một nhà khởi nghiệp",
+    answer: "Sự tăng trưởng về quy mô",
+  },
+  {
+    id: 200,
+    question:
+      "Quan điểm chỉ đạo thứ hai trong “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” đề cập đến vấn đề gì?",
+    answer: "Hình thức của kinh tế tập thể",
+  },
+  {
+    id: 201,
+    question:
+      "Công tác an ninh, trật tự, an toàn trường học đề cập đến những vấn đề nào sau đây?",
+    answer: "Tất cả các vấn đề đã nêu",
+  },
+  {
+    id: 202,
+    question:
+      "Căn cứ Điều 8, Luật Giao thông đường bộ, hành vi nào sau đây bị nghiêm cấm?",
+    answer: "Tất cả các hành vi được nêu",
+  },
+  {
+    id: 203,
+    question:
+      "Nhiệm vụ, giải pháp thứ hai được “Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” nêu ra là về vấn đề gì?",
+    answer:
+      "Phát triển nền nông nghiệp hiệu quả, bền vững theo hướng sinh thái, ứng dụng khoa học - công nghệ tiên tiến, nâng cao chất lượng, giá trị gia tăng.",
+  },
+  {
+    id: 204,
+    question:
+      "Nếu bạn gặp khó khăn trong cuộc sống và cần đến sự hỗ trợ, bạn sẽ liên hệ với bộ phận nào của UEH để được trợ giúp?",
+    answer: "Phòng chăm sóc hỗ trợ người học",
+  },
+  {
+    id: 205,
+    question:
+      "Quan điểm chỉ đạo đầu tiên về “bản chất, vị trí, vai trò của kinh tế tập thể” trong “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” đề cập đến vấn đề gì?",
+    answer: "Bản chất, vị trí, vai trò của kinh tế tập thể",
+  },
+  {
+    id: 206,
+    question: "Customer engagement là gì?",
+    answer: "Tất cả đều đúng",
+  },
+  {
+    id: 207,
+    question:
+      "Quan điểm “Nông dân là chủ thể, là trung tâm của quá trình phát triển nông nghiệp, kinh tế nông thôn và xây dựng nông thôn mới” thuộc quan điểm thứ mấy của Nghị quyết số 19-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022)",
+    answer: "2",
+  },
+  {
+    id: 208,
+    question:
+      "Nghị quyết của Ban Chấp hành Trung ương Khóa IX về “tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể, khu vực kinh tế tập thể nước ta” được thông qua tại Hội nghị Ban Chấp hành Trung ương Đảng lần thứ mấy?",
+    answer: "Hội nghị Ban Chấp hành Trung ương lần thứ năm (2003)",
+  },
+  {
+    id: 209,
+    question: "Bạn có thể liên hệ với thư viện viên bằng cách:",
+    answer: "Cả 2 cách đều được",
+  },
+  {
+    id: 210,
+    question: "Trích dẫn đúng là",
+    answer: "Tất cả các ý đã nêu",
+  },
+  {
+    id: 211,
+    question:
+      "Nội dung: “Nông nghiệp, nông dân, nông thôn là ba thành tố có quan hệ mật thiết, gắn bó, không thể tách rời” thuộc quan điểm thứ mấy của Nghị quyết số 19-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022)?",
+    answer: "1",
+  },
+  {
+    id: 212,
+    question: "Chọn câu đúng",
+    answer: "Cả [*] và [**] đều đúng",
+  },
 ];
