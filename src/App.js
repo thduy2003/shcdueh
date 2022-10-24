@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="w-full max-w-[1000px] mx-auto shadow-md p-10 mt-10">
       <h1 className="flex justify-center items-center">SHCD UEH 2022</h1>
-      <h4 className="flex justify-center items-center">By Tran Hoang Duy </h4>
+      <h4 className="flex justify-center items-center">By thd2003 </h4>
       <input
         className="w-full mb-5 border border-gray-600 outline-0 p-5"
         type="text"

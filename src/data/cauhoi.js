@@ -568,8 +568,284 @@ export const cauhoi = [
   },
   {
     id: 98,
+    question: "Huân chương hạng nhì",
+    answer: "năm 2015",
+  },
+  {
+    id: 99,
+    question: "Xây dựng con người Việt Nam",
+    answer:
+      "phát triển toàn diện, có sức khỏe, năng lực, trình độ,có ý thức, trách nhiệm cao đối với bản thân",
+  },
+  {
+    id: 100,
+    question: "Tốc độ tăng trưởng GDP bình quân 5 năm đạt khoảng",
+    answer: "6,5 - 7%/năm",
+  },
+  {
+    id: 101,
+    question: "Định hướng đa ngành",
+    answer: "Kinh tế, Kinh doanh – Quản lý, Khoa học Xh và Công nghệ",
+  },
+  {
+    id: 102,
+    question: "UEH có",
+    answer: "9 giáo sư",
+  },
+  {
+    id: 103,
+    question: "Độ mở của nền kinh tế Việt Nam 200% GDP",
+    answer: "cao nhất",
+  },
+  {
+    id: 104,
+    question: "Phạm Văn Năng hiệu trưởng",
+    answer: "2002-2011",
+  },
+  {
+    id: 105,
+    question: "Việt Nam ký",
+    answer: "15 hiệp định FTA, quan hệ với 224 nước",
+  },
+  {
+    id: 106,
     question:
-      "Vị giáo sư duy nhất có giải Nobel kinh tế từng đến thăm và làm việc tại trường đại học kinh tế TP. Hồ Chí Minh là ai:",
-    answer: " Daniel Kahneman",
+      "Chiến dịch mùa hè xanh được đổi tên thành chiến dịch sinh viên kinh thế từ năm nào?",
+    answer: "năm 2008",
+  },
+  {
+    id: 107,
+    question:
+      "Hiện nay văn phòng đoàn hội trường đh kinh tế tp hcm được đặt ở đâu? ",
+    answer: "B2-604",
+  },
+  {
+    id: 108,
+    question:
+      "Theo bảng xếp hạng U-Multirank, UEH thuộc top 25 trường đh tốt nhất thế giới với tiêu chí “đóng góp cho sự phát triển nghề nghiệp suốt đời” trong các năm",
+    answer: "2017,2018,2019,2020",
+  },
+  {
+    id: 109,
+    question:
+      "Ngoài hỗ trợ thông tin người học trực tiếp tại văn phòng làm việc, phòng Chăm sóc và hỗ trợ người học còn hỗ trợ thông tin qua các hình thức nào?",
+    answer:
+      "Fanpage Phòng chăm sóc& Hỗ trợ người học, Email- DSA, Tổng đài UEH",
+  },
+  {
+    id: 110,
+    question: "Nội dung nào sau đây là giá trị cốt lõi trong văn hóa UEH.",
+    answer:
+      "Tự hào phát huy truyền thống UEH;– Tôn sư trọng đạo, sống có nghĩa tình;  Đoàn kết, tương trợ lẫn nhau;– Không bản vị, cục bộ.",
+  },
+  {
+    id: 111,
+    question:
+      "Trong quy định về quy tắc ứng xử tại Trường Đại học Kinh tế TP. Hồ Chí Minh(UEH) trong thực hiện phòng, chống dịch .COVID -19, đâu là nội dung Không Đúng theo quy tắc ứng xử của viên chức khối quản lý:",
+    answer: "Đình trệ và tổ chức đều ko đúng",
+  },
+  {
+    id: 112,
+    question:
+      "Dự án mở đầu cho lộ trình xây dựng và phát triển Đại học bền vững là:",
+    answer: "UEH Zero waste campus",
+  },
+  {
+    id: 113,
+    question:
+      "Trường Đại học Kinh tế TP. Hồ Chí Minh (UEH) ban hành quy định về quy tắc ứng xử trong thực hiện, phòng chống dịch COVID- 19 nhằm mục đích:",
+    answer: "=> Tất cả đều đúng",
+  },
+  {
+    id: 114,
+    question:
+      "Theo bộ quy tắc liêm chính trong nghiên cứu khoa học tại UEH, để đảm bảo tuân thủ quy định về xuất bản và quyền tác giả phải ",
+    answer: "=> Tất cả đều đúng",
+  },
+  {
+    id: 115,
+    question:
+      "Giải thưởng đề tài môn học xuất sắc UEH500 được tổ chức mấy năm 1 lần:",
+    answer: "1",
+  },
+  {
+    id: 116,
+    question:
+      "Theo quy định về quy tắc ứng xử tại Trường ĐH KT TP HCM trong thực hiện phòng,chống dịch COVID-19, người học phải: ",
+    answer: "tất cả đều đúng",
+  },
+  {
+    id: 117,
+    question:
+      "Chiến dịch “Xuân Tình Nguyện 2021” được Hội sinh viên trường triển khai tổ chức vào thời gian nào trong năm?",
+    answer: "tháng 1-2",
+  },
+  {
+    id: 118,
+    question: "Trang web quên mật khẩu Email?",
+    answer: "Quên mật khẩu tại cntt.ueh.edu.vn/email ",
+  },
+  {
+    id: 119,
+    question: "Trang web quên mật khẩu tài khoản sinh viên",
+    answer: "Quên mật khẩu tại login.st.ueh.edu.vn ",
+  },
+  {
+    id: 120,
+    question: "Nếu quên tất cả các mật khẩu tại UEH? ",
+    answer: "Liên hệ các phòng quản lý đào tạo  ",
+  },
+  {
+    id: 121,
+    question:
+      "Nếu bạn có nhiều email (cá nhân và UEH) nhưng chỉ muốn kiểm tra email ở một email chính? ",
+    answer: "Tất cả email phụ sẽ chuyển tiếp sang email chính",
+  },
+  {
+    id: 122,
+    question:
+      "Tôi muốn cùng bạn bè soạn thảo slide PowerPoint trực tiếp cùng nhau ",
+    answer: "Sử dụng chia sẻ và cộng tác trên Google Drive ",
+  },
+  {
+    id: 123,
+    question:
+      "LMS là hệ thống đào tạo trực tuyến bất đồng bộ, bất đồng bộ nghĩa là? ",
+    answer: "Giảng viên và sinh viên không cần online cùng lúc",
+  },
+  {
+    id: 124,
+    question:
+      " Nếu không thấy khóa học trên LMS nhưng bạn bè cùng lớp học phần đã nhìn thấy, tôi nên? ",
+    answer: "Liên hệ với giảng viên phụ trách",
+  },
+  {
+    id: 125,
+    question: "Khi kiểm tra đạo văn, bài làm của tôi sẽ bị đánh dấu đạo văn ",
+    answer: "Cấu hình 100 từ liên tiếp và có kết quả >=20% trùng lắp",
+  },
+  {
+    id: 126,
+    question:
+      "Khi kiểm tra đạo văn, kết quả trùng lắp của tôi và giảng viên khác nhau?",
+    answer: "Do tôi và giảng viên đang cấu hình số từ liên tiếp khác nhau",
+  },
+  {
+    id: 127,
+    question:
+      "Khi kiểm tra đạo văn, hệ thống xuất kết quả đảm bảo yêu cầu của UEH, như vậy tôi không bị dính lỗi đạo văn?",
+    answer: "Sai, giảng viên/cơ quan quản lý sẽ kết luận",
+  },
+  {
+    id: 128,
+    question: "Văn bản nào sau đây không thể kiểm tra đạo văn? ",
+    answer: "Tất cả đều không thể kiểm tra đạo văn",
+  },
+  {
+    id: 129,
+    question:
+      " Khi kiểm tra đạo văn, nếu đợi quá lâu không có phản hồi về kết quả, bạn sẽ? ",
+    answer:
+      ". Upload lại tập tin PDF vào cổng khác, thử đợi kết quả vào ngày hôm sau",
+  },
+  {
+    id: 130,
+    question:
+      " Trên hệ thống kiểm tra đạo văn, nếu không thấy biểu tượng upload? ",
+    answer: "Thu nhỏ font chữ bằng cách ấn Ctrl và (dấu trừ) trên trình duyệt",
+  },
+  {
+    id: 131,
+    question:
+      "Trong ngày thi online, khi gặp sự cố, đâu là thứ tự sẽ giải quyết từ phía thí sinh?",
+    answer:
+      "Tự xoay sở, liên hệ giám thị nhờ giúp đỡ, chat ngay trên website huongdanthi.ueh.edu.vn, gọi hotline (bất khả kháng) ",
+  },
+  {
+    id: 132,
+    question: " Trong ngày thi online, địa chỉ trang web thi sẽ là? ",
+    answer:
+      "Địa chỉ có thể thay đổi và địa chỉ chính xác nhất do giám thị gửi trong mục Chat trong MS Teams ứng từng ca thi",
+  },
+  {
+    id: 133,
+    question: "Các bước khắc phục sự cố khi không thể vào wifi của UEH?",
+    answer: "Tất cả đều đúng",
+  },
+  {
+    id: 134,
+    question: "Nguyên tắc xử lý những vấn đề công nghệ thông tin tại UEH?",
+    answer: "Tất cả đều đúng",
+  },
+  {
+    id: 135,
+    question: "Quyền của sinh viên trong học tập và rèn luyện, bao gồm:",
+    answer: "Tất cả các quyền trên",
+  },
+  {
+    id: 136,
+    question: "Nghĩa vụ của SV?",
+    answer: "Cả 3 nghĩa vụ trên",
+  },
+  {
+    id: 137,
+    question: "Các mức học bổng khuyến khích học tập UEH - CV? ",
+    answer: "Cả 3 loại trên",
+  },
+  {
+    id: 138,
+    question: " Khung điểm đánh giá rèn luyện về ý thức học tập là? ",
+    answer: ". Từ 0 - 30 điểm",
+  },
+  {
+    id: 139,
+    question:
+      "Khung điểm đánh giá rèn luyện về ý thức và kết quả chấp hành nội quy, quy chế của phân hiệu là?",
+    answer: "Từ 0 - 25 điểm ",
+  },
+  {
+    id: 140,
+    question:
+      "Khung điểm đánh giá rèn luyện về phẩm chất công dân và quan hệ cộng đồng?",
+    answer: "Từ 0 - 15 điểm",
+  },
+  {
+    id: 141,
+    question:
+      "Khung điểm đánh giá về ý thức và kết quả tham gia phụ trách lớp, các đoànthể, tổ chức trong phân hiệu hoặc đạt được thành tích đặc biệt trong học tập, rèn luyện của sinh viên?",
+    answer: "Từ 0 - 10 điểm ",
+  },
+  {
+    id: 142,
+    question: "Phân loại điểm rèn luyện thành các loại như sau?",
+    answer: "Xuất sắc, tốt, khá, trung bình khá, trung bình, yếu và kém",
+  },
+  {
+    id: 143,
+    question: "Quy định sinh viên ở nội trú? ",
+    answer: "Tất cả nội dung trên",
+  },
+  {
+    id: 144,
+    question: "Quy định sinh viên ở ngoại trú? ",
+    answer: "Tất cả nội dung trên",
+  },
+  {
+    id: 145,
+    question:
+      "Chương trình Chào đón Tân sinh viên “Nối vòng tay lớn” năm 2020 với chủ đề và tên gọi là? ",
+    answer: "Fight&Shine",
+  },
+  {
+    id: 146,
+    question:
+      "Trưởng Ban Chỉ đạo phòng, chống dịch COVID-19 trường Đại học Kinh tế TP. Hồ Chí Minh theo quyết định số 153/QĐ-ĐHKT-NS vào ngày 01/02/2021 là ai? ",
+    answer: " TS. Bùi Quang Việt",
+  },
+  {
+    id: 147,
+    question:
+      "UEH được tổ chức Eduniversal xếp hạng Top 1000 trường đào tạo kinh doanh tốt nhất thế giới từ năm nào?",
+    answer: "Từ năm 2014 đến nay ",
   },
 ];
