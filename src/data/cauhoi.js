@@ -1081,7 +1081,49 @@ export const cauhoi = [
   },
   {
     id: 187,
-    question: "Giá trị nền tảng trong Văn hóa UEH gồm có",
-    answer: "cả 2 giá trị đã nêu",
+    question: "Cơ sở chính của UEH là cơ sở nào?",
+    answer: "cơ sở A",
+  },
+  {
+    id: 188,
+    question: "Quan điểm của Đảng về hình thức phân phối của kinh tế tập thể:",
+    answer:
+      "Theo mức độ tham gia dịch vụ, theo hiệu quả lao động và theo vốn góp",
+  },
+  {
+    id: 189,
+    question:
+      "Theo đề án 1665 được ban hành bởi chính phủ thì có những loại hình khởi nghiệp nào?",
+    answer:
+      " Khởi nghiệp doanh nghiệp vừa và nhỏ, khởi nghiệp đổi mới sáng tạo và khởi nghiệp doanh nghiệp xã hội",
+  },
+  {
+    id: 190,
+    question:
+      "Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” xác định mục tiêu cụ thể đến năm 2030 về tỉ lệ hộ gia đình nông thôn được sử dụng nước sạch theo quy chuẩn đạt bao nhiêu %?",
+    answer: " Đạt 80%",
+  },
+  {
+    id: 191,
+    question: "Đâu là yếu tố khác nhau giữa startup và doanh nghiệp nhỏ?",
+    answer:
+      " Growth intent, Business objectives, End goals, Funding, Level of risk",
+  },
+  {
+    id: 192,
+    question: "Những nguy cơ tiềm ẩn khi sử dụng Internet là gì?",
+    answer: "Tất cả các vấn đề đã nêu",
+  },
+  {
+    id: 193,
+    question: "Điều gì khiến Entrepreneurship khác với Intrapreneurship?",
+    answer: "Tất cả các đáp án trên",
+  },
+  {
+    id: 194,
+    question:
+      "Căn cứ Điều 7, Luật An toàn thông tin mạng năm 2015, hành vi nào sau đây bị nghiêm cấm?",
+    answer:
+      "Phát tán thư rác, phần mềm độc hại, thiết lập hệ thống thông tin giả mạo, lừa đảo",
   },
 ];
