@@ -985,4 +985,103 @@ export const cauhoi = [
       "Trong phòng thi, sinh viên có quyền yêu cầu hai cán bộ coi thi thực hiện các điều nào sau đây?",
     answer: "tất cả các điều đã nêu",
   },
+  {
+    id: 171,
+    question:
+      "Hình thức xử lý kỷ luật nào áp dụng mức phạt trừ 25% số điểm thi khi sinh viên vi phạm quy chế thi?",
+    answer: "khiển trách",
+  },
+  {
+    id: 172,
+    question:
+      "Đơn vị nào sau đây trực tiếp quản lý các hoạt động khoa học của sinh viên?",
+    answer: "Tất cả các đáp án đã nêu",
+  },
+  {
+    id: 173,
+    question:
+      "Trong nhiệm vụ, giải pháp thứ năm của “Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045”, Trung ương xác định: Tăng đầu tư ngân sách Nhà nước giai đoạn 2021 – 2030 cho nông nghiệp, nông thôn ít nhất gấp bao nhiêu lần giai đoạn 2011 – 2020?",
+    answer: "2 lần",
+  },
+  {
+    id: 174,
+    question:
+      "Trong nhiệm vụ, giải pháp thứ năm của “Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045”, Trung ương xác định: Tăng đầu tư ngân sách Nhà nước giai đoạn 2021 – 2030 cho nông nghiệp, nông thôn ít nhất gấp bao nhiêu lần giai đoạn 2011 – 2020?",
+    answer: "2 lần",
+  },
+  {
+    id: 175,
+    question:
+      "Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” đặt ra nhiệm vụ, giải pháp chủ yếu thứ tư là gì?",
+    answer:
+      "Nâng cao hiệu lực, hiệu quả quản lý Nhà nước đối với kinh tế tập thể",
+  },
+  {
+    id: 176,
+    question: "Yếu tố được xác định sau cùng trong Business Model Canvas là:",
+    answer: "Cơ cấu chi phí",
+  },
+  {
+    id: 177,
+    question:
+      "Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022) đã nêu lên một trong những hạn chế xuất phát từ thực tiễn công tác quản lý sau 20 năm thực hiện Nghị quyết của Ban Chấp hành Trung ương năm Khóa IX (2003) về “tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể, khu vực kinh tế tập thể nước ta” là:",
+    answer:
+      "Phần lớn hợp tác xã, tổ hợp tác có quy mô nhỏ, vốn ít, phạm vi hoạt động hẹp, năng lực cạnh tranh, lợi ích mang lại cho thành viên thấp",
+  },
+  {
+    id: 178,
+    question: "Hiện Viện đổi mới sáng tạo có những Vườn ươm khởi nghiệp nào?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 179,
+    question:
+      "Theo Quy định Tổ chức đào tạo Học kỳ doanh nghiệp đối với sinh viên Đại học chính quy tại UEH, yêu cầu của Học kỳ doanh nghiệp là",
+    answer: "[*] và [**]",
+  },
+  {
+    id: 180,
+    question: "Học bổng cấp trường UEH gồm các loại nào?",
+    answer:
+      "Học bổng khuyến khích học tập, học bổng hỗ trợ học tập, học bổng từ các đơn vị ngoài trường",
+  },
+  {
+    id: 181,
+    question:
+      "Theo quy định đánh giá kết quả rèn luyện sinh viên phiên bản 2022, sinh viên bị xem xét tạm ngừng học khi có kết quả rèn luyện như thế nào?",
+    answer:
+      "Xếp loại Yếu (35-49 điểm) hoặc Kém (0-34 điểm) trong 2 học kỳ liên tiếp",
+  },
+  {
+    id: 182,
+    question: "Ngành học quản trị đổi mới sáng tạo là gì?",
+    answer: "Tất cả đều đúng",
+  },
+  {
+    id: 183,
+    question: "Sứ mạng Tiên phong đổi mới, sáng tạo của UEH là",
+    answer:
+      "UEH nhận ra xu hướng thời đại công nghệ thay đổi nhanh chóng và xây dựng lợi thế cạnh tranh thông qua việc không ngừng đổi mới và sáng tạo tri thức trong đào tạo và nghiên cứu khoa học.",
+  },
+  {
+    id: 184,
+    question:
+      "Quy tắc ứng xử chung trên mạng xã hội tại Việt Nam bao gồm những nội dung nào?",
+    answer: "Tất cả các quy tắc đã nêu",
+  },
+  {
+    id: 185,
+    question: "Giá trị nền tảng trong Văn hóa UEH gồm có",
+    answer: "cả 2 giá trị đã nêu",
+  },
+  {
+    id: 186,
+    question: "Đổi mới sáng tạo là gì?",
+    answer: " Innovation = invention + commercialization/exploitation",
+  },
+  {
+    id: 187,
+    question: "Giá trị nền tảng trong Văn hóa UEH gồm có",
+    answer: "cả 2 giá trị đã nêu",
+  },
 ];
