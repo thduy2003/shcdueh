@@ -1279,4 +1279,143 @@ export const cauhoi = [
       "Theo quy định đánh giá kết quả rèn luyện sinh viên phiên bản 2022, các trường hợp nào được cộng thêm vào tổng điểm rèn luyện?",
     answer: "Tất cả trường hợp đã nêu",
   },
+  {
+    id: 221,
+    question:
+      "Đơn vị nào Lập khung thời gian đào tạo năm học, Thời khóa biểu, Lịch thi cho sinh viên Đại học chính quy?",
+    answer: "Phòng Kế hoạch đào tạo - Khảo thí  ",
+  },
+  {
+    id: 222,
+    question: "Quyền lợi của sinh viên khi NCKH bao gồm?",
+    answer: "Tất cả các đáp án đã nêu",
+  },
+  {
+    id: 223,
+    question:
+      "	Nếu đã thực hiện theo các yêu cầu của đối tượng lừa đảo và bị chiếm đoạt tiền trong tài khoản ngân hàng, cách xử lý đúng là?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 224,
+    question:
+      "Các lỗi đạo văn theo Quyết định số 4621/QĐ-ĐHKT-VSĐH ngày 15 tháng 12 năm 2016 của Hiệu trưởng trường Đại học Kinh tế TP. Hồ Chí Minh:",
+    answer: "Tất cả các lỗi đã nêu",
+  },
+  {
+    id: 225,
+    question:
+      "Trong các kỹ năng nào là cần thiết cho người điều khiển xe gắn máy khi tham gia giao thông, kỹ năng giữ tình thần tỉnh táo khi lái xe là",
+    answer:
+      "Không lái xe sau khi đã uống rượu, bia hoặc khi tinh thần không được tỉnh táo.",
+  },
+  {
+    id: 226,
+    question:
+      "Quan điểm thứ ba trong “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” đề cập đến vấn đề gì?",
+    answer: "Hoạt động kinh tế tập thể",
+  },
+  {
+    id: 227,
+    question:
+      "Trong một mô hình Business Model Canvas, yếu tố đầu tiên cần xác định là",
+    answer: "Giải pháp giá trị hoặc phân phúc khách hàng",
+  },
+  {
+    id: 228,
+    question:
+      "Những thành tích xuất sắc mà Trường Đại học Kinh tế TP.HCM đã đạt được là:",
+    answer: "Tất cả các thành tích đã nêu",
+  },
+  {
+    id: 229,
+    question: "	Sinh viên có thể tìm hiểu thông tin về Trạm Y tế ở đâu?",
+    answer: "Website yte.ueh.edu.vn",
+  },
+  {
+    id: 230,
+    question:
+      "Trong các kỹ năng nào là cần thiết cho người điều khiển xe gắn máy khi tham gia giao thông, kỹ năng nắm vững và tuân thủ luật lệ giao thông khi điều khiển xe gắn máy là",
+    answer: "Tất cả ",
+  },
+  {
+    id: 231,
+    question: "UII có những hoạt động nào cho việc Đưa sản phẩm ra thị trường?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 232,
+    question:
+      "Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” xác định mục tiêu cụ thể đến năm 2030 về tăng năng suất lao động nông nghiệp bình quân đạt bao nhiêu %/năm?",
+    answer: "Đạt 5,5-6%/năm",
+  },
+  {
+    id: 233,
+    question: "Giá trị UEH mang lại là",
+    answer: "Tất cả ",
+  },
+  {
+    id: 234,
+    question: "UEH500 là cách gọi tắt của Giải thưởng nào sau đâu?",
+    answer: "Giải thưởng “Đề tài môn học xuất sắc”",
+  },
+  {
+    id: 235,
+    question:
+      "Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” xác định mục tiêu cụ thể đến năm 2030, cả nước có khoảng bao nhiêu liên hiệp hợp tác xã?",
+    answer: "140000",
+  },
+  {
+    id: 236,
+    question:
+      "Cách phòng tránh tội phạm mạo danh, lợi dụng hình ảnh, sức mạnh quyền uy của cơ quan thi hành pháp luật để uy hiếp, dẫn dụ nạn nhân nhằm lừa đảo là?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 237,
+    question:
+      "Quan điểm thứ tư về “định hướng phát triển kinh tế tập thể” trong “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” là quan điểm chỉ đạo thứ mấy?",
+    answer: "Định hướng phát triển kinh tế tập thể",
+  },
+  {
+    id: 238,
+    question: "Sứ mạng Nâng tầm tri thức của UEH là",
+    answer:
+      "Thông qua các hoạt động đào tạo, nghiên cứu, và phục vụ cộng đồng, UEH mong muốn đóng góp cho sự lan tỏa tri thức, văn minh và các giá trị giáo dục toàn diện đến mọi người.",
+  },
+  {
+    id: 239,
+    question: "Nhận định nào sau đây hợp lý nhất",
+    answer:
+      "Các doanh nghiệp lâu đời thường xây dựng mô hình Business Model Canvas thay vì mô hình Lean Canvas",
+  },
+  {
+    id: 240,
+    question: "Nguồn vốn cho hoạt động đổi mới sáng tạo?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 241,
+    question:
+      " 	Nghị quyết số 19-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022) là Nghị quyết về vấn đề gì?",
+    answer:
+      "Về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045",
+  },
+  {
+    id: 242,
+    question:
+      " Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới” xác định mục tiêu cụ thể đến năm 2045, phấn đấu cả nước có tối thiểu bao nhiêu % dân số tham gia các tổ chức kinh tế tập thể?",
+    answer: "20% dân số",
+  },
+  {
+    id: 243,
+    question: " Tên đầy đủ của Ngày hội việc làm UEH?",
+    answer: "Ngày hội Thực tập và Việc làm TP. Hồ Chí Minh",
+  },
+  {
+    id: 244,
+    question:
+      "Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” xác định tầm nhìn đến năm 2045 đối với vấn đề nông nghiệp như thế nào?",
+    answer: "Sinh thái",
+  },
 ];
