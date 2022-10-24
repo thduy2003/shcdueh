@@ -1418,4 +1418,114 @@ export const cauhoi = [
       "Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” xác định tầm nhìn đến năm 2045 đối với vấn đề nông nghiệp như thế nào?",
     answer: "Sinh thái",
   },
+  {
+    id: 245,
+    question: "	truyền thống UEH",
+    answer: "Trí tuệ",
+  },
+  {
+    id: 246,
+    question:
+      "Để phát triển “nông nghiệp, nông dân, nông thôn” đến năm 2030, tầm nhìn đến năm 2045, Nghị quyết số 19-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022) đã đưa ra mấy quan điểm chỉ đạo?",
+    answer: "5",
+  },
+  {
+    id: 247,
+    question:
+      "	Theo quy định đánh giá kết quả rèn luyện sinh viên phiên bản 2022, sinh viên A có ý thức học tập tốt, tích cực tham gia các hoạt động học thuật, khoa học trong UEH, không có vi phạm, điểm tối đa mà bạn đạt được ở mặt 1 là bao nhiêm điểm?",
+    answer: "20",
+  },
+  {
+    id: 248,
+    question: "Chân dung khách hàng mục tiêu được phác họa theo",
+    answer: "Tất cả đều đúng",
+  },
+  {
+    id: 249,
+    question:
+      "Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022) là Nghị quyết về vấn đề gì?",
+    answer:
+      "Về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới",
+  },
+  {
+    id: 250,
+    question:
+      "	Tại UEH có những hoạt động nào cho K46 về lĩnh vực đổi mới sáng tạo?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 251,
+    question: "Xác định quy mô thị trường dựa vào",
+    answer: "Số lượng khách hàng mục tiêu",
+  },
+  {
+    id: 252,
+    question:
+      "Căn cứ Điều 4, Bộ Quy tắc ứng xử trên mạng xã hội, điều gì mà tổ chức và cá nhân không nên thực hiện?",
+    answer: "Tất cả ",
+  },
+  {
+    id: 253,
+    question: "Tiêu chuẩn xét chọn Sinh viên 5 tốt đối với các nhân bao gồm:",
+    answer: "Tất cả ",
+  },
+  {
+    id: 254,
+    question:
+      "Hình thức xử lý kỷ luật đình chỉ thi được áp dụng cho những hành vi nào sau đây?",
+    answer: "Tất cả ",
+  },
+  {
+    id: 255,
+    question:
+      "	Kỳ lân - Unicorn là cách gọi các startup được định giá bao nhiêu tỷ USD?",
+    answer: "1 tỷ USD trở lên",
+  },
+  {
+    id: 256,
+    question:
+      "Theo thống kê được tổng hợp và công bố bởi We are social (wearesocial.com) và Hootsuite (hootsuite.com ) hai nền tảng quốc tế hoạt động trong lĩnh vực phân tích thị trường kỹ thuật số và hành vi mạng xã hội, đến đầu năm 2022, Việt Nam có",
+    answer: "72,10 triệu người dùng Internet (tương đương 73,2% dân số)",
+  },
+  {
+    id: 25111111111111,
+    question: "	Có bao nhiều loại hình đổi mới sáng tạo?",
+    answer:
+      "New concept, New system of product/service delivery, New Interface with customer",
+  },
+  {
+    id: 258,
+    question:
+      "Phòng Chăm sóc và hỗ trợ người học có văn phòng tại các cơ sở nào?",
+    answer: "A<B<N",
+  },
+  {
+    id: 259,
+    question: "Vì sao các startup hiện nay nên chú trọng yếu tố công nghệ?",
+    answer: "Cả [*] và [**] đều đúng",
+  },
+  {
+    id: 260,
+    question:
+      "Quan điểm thứ tư của “Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” có nêu…",
+    answer:
+      "Xây dựng nông thôn hiện đại, phồn vinh, hạnh phúc, dân chủ, văn minh.",
+  },
+  {
+    id: 261,
+    question: "Kế hoạch kinh doanh dùng để",
+    answer: "Ra quyết định khởi nghiệp",
+  },
+  {
+    id: 262,
+    question:
+      "Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” xác định mục tiêu cụ thể đến năm 2030, tỉ trọng lao động nông nghiệp trong tổng lao động xã hội như thế nào?",
+    answer: "Dưới 20%",
+  },
+  {
+    id: 263,
+    question:
+      "Về tín dụng đối với học sinh, sinh viên, căn cứ theo Quyết định số 157/2007/QĐ-TTg và Quyết định số 05/2022/QĐ-TTg của Thủ tướng Chính phủ, đối tượng được vay vốn gồm có…",
+    answer: "Tất cả",
+  },
 ];
