@@ -1231,4 +1231,52 @@ export const cauhoi = [
     question: "Chọn câu đúng",
     answer: "Cả [*] và [**] đều đúng",
   },
+  {
+    id: 213,
+    question:
+      "Những yếu tố nào sau đây chỉ có trong mô hình Lean Canvas mà không có trong mô hình Business Model Canvas?",
+    answer: "Vấn đề, giải pháp, lợi thế ưu đãi, các số liệu quan trọng",
+  },
+  {
+    id: 214,
+    question: "Sinh viên có thể đề nghị cố vấn học tập tư vấn các vấn đề nào?",
+    answer: "tất cả đều đúng",
+  },
+  {
+    id: 215,
+    question:
+      "Trong kinh doanh, nhờ có tư duy sáng tạo và hiệu quả mà doanh nhân có thể",
+    answer: "tất cả đều đúng",
+  },
+  {
+    id: 216,
+    question:
+      "Căn cứ Điều 4, Bộ Quy tắc ứng xử trên mạng xã hội, quy tắc trách nhiệm là",
+    answer:
+      "Chịu trách nhiệm về các hành vi, ứng xử trên mạng xã hội; phối hợp với các cơ quan chức năng để xử lý hành vi, nội dung thông tin vi phạm pháp luật.",
+  },
+  {
+    id: 217,
+    question:
+      " 	Sinh viên ngoại trú thông báo cho UEH địa chỉ ngoại trú bằng phương thức nào?",
+    answer:
+      "Cập nhật thông tin trên portal sinh viên: https://student.ueh.edu.vn/",
+  },
+  {
+    id: 218,
+    question:
+      " Trong một học kỳ chính (trừ học kỳ thực tập), sinh viên cần tham gia bao nhiêu buổi Sinh hoạt lớp?",
+    answer: "2",
+  },
+  {
+    id: 219,
+    question: " Phạm vi điều chỉnh của Luật Giao thông đường bộ là:",
+    answer: "Tất cả các vấn đề đã nêu",
+  },
+  {
+    id: 220,
+    question:
+      "Theo quy định đánh giá kết quả rèn luyện sinh viên phiên bản 2022, các trường hợp nào được cộng thêm vào tổng điểm rèn luyện?",
+    answer: "Tất cả trường hợp đã nêu",
+  },
 ];
