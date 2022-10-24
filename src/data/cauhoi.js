@@ -931,4 +931,58 @@ export const cauhoi = [
     answer:
       "Đối với học phần bắt buộc có điểm học phần không đạt, sinh viên bắt buộc phải đăng ký học lại khi học phần đó được tổ chức giảng dạy",
   },
+  {
+    id: 162,
+    question:
+      "UEH xét miễn giảm học phí đối với sinh viên ĐHCQ thuộc diện miễn giảm học phí theoquy định tại Nghị định 81/2021/NĐ-CP ngày 27 tháng 8 năm 2021 của Chính phủ về Quy địnhvề cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân vàchính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo",
+    answer: "đúng",
+  },
+  {
+    id: 163,
+    question:
+      "Số đợt đăng ký học phần tương ứng với các học kỳ trong mỗi năm học là:",
+    answer: "3 đợt",
+  },
+  {
+    id: 164,
+    question:
+      "Căn cứ Quyết định số 1796/QĐ-ĐHKT-ĐT ngày 30 tháng 6 năm 2021 của Hiệu trưởng Trường Đại học Kinh tế TP. Hồ Chí Minh, sinh viên không đăng ký 02 học kỳ chính liên tiếp sẽ:",
+    answer: "Bị xóa tên - Trường ban hành quyết định buộc thôi học",
+  },
+  {
+    id: 165,
+    question:
+      "Căn cứ Quyết định số 1827/QĐ-ĐHKT-ĐT quy định học tiếng Anh và Chuẩn trình độtiếng Anh đối với sinh viên đại học chính quy tại Trường Đại học Kinh tế TP. Hồ Chí Minh, sinh viên được phép chuyển điểm",
+    answer: "Nhiềuần, nhưng mỗi học phần chỉ có thể chuyển điểm một lần",
+  },
+  {
+    id: 166,
+    question:
+      "Các loại chứng chỉ tiếng Anh quốc tế được áp dụng chuyển điểm học phần tiếng Anh theo quy định hiện hành, gồm:",
+    answer: "TOEIC;IELTS;TOEFL IBT;VPET",
+  },
+  {
+    id: 167,
+    question:
+      "Sinh viên thi kết thúc học phần có điểm không đạt. Sinh viên phải đăng ký học lại. Trướckhi đăng ký học lại, sinh viên phải tự tìm thời khóa biểu học ghép với khóa khác phù hợp với kếhoạch học tập của mình. Vậy sinh viên cần tra cứu thời khóa biểu để xin đăng ký học ghép từ nguồn nào sau đây?",
+    answer: "Website Phòng Kế hoạch đào tạo - Khảo thí",
+  },
+  {
+    id: 168,
+    question:
+      "Sinh viên xin vắng thi có phép kỳ thi kết thúc học phần . Sinh viên phải tự tìm lịch thi phùhợp để xin đăng ký thi lại. Vậy sinh viên cần tra cứu lịch thi kết thúc học phần từ nguồn nào sau đây?",
+    answer: "Website Phòng Kế hoạch đào tạo - Khảo thí",
+  },
+  {
+    id: 169,
+    question:
+      "Giảng đường UEH ngoài việc sử dụng cho việc bố trí các lớp học theo thời khóa biểu,trong khoảng thời gian trống có thể được bố trí cho các nhu cầu sau: Đại hội, Liên Chi đoànsinh viên; Đại hội Đoàn Khoa; Đại hội Câu lạc bộ Nhóm thuộc Khoa,.... Sinh viên sẽ liên hệ đơn vị nào sau đây để đăng ký kế hoạch mượn phòng:",
+    answer: "Văn phòng Đoàn Thanh Niên",
+  },
+  {
+    id: 170,
+    question:
+      "Trong phòng thi, sinh viên có quyền yêu cầu hai cán bộ coi thi thực hiện các điều nào sau đây?",
+    answer: "tất cả các điều đã nêu",
+  },
 ];
