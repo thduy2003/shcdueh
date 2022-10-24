@@ -1528,4 +1528,111 @@ export const cauhoi = [
       "Về tín dụng đối với học sinh, sinh viên, căn cứ theo Quyết định số 157/2007/QĐ-TTg và Quyết định số 05/2022/QĐ-TTg của Thủ tướng Chính phủ, đối tượng được vay vốn gồm có…",
     answer: "Tất cả",
   },
+  {
+    id: 264,
+    question: "Nhân tố nào là thuộc loại Đổi mới sáng tạo Experience?",
+    answer: "Tất cả",
+  },
+  {
+    id: 265,
+    question:
+      "Đâu là những kỹ năng sinh viên cần trang bị cho việc khởi nghiệp kinh doanh trong tương lai?",
+    answer: "Tất cả",
+  },
+  {
+    id: 266,
+    question: "Thư viện cung cấp các công cụ giúp bạn trích dẫn đúng:",
+    answer: "đúng",
+  },
+  {
+    id: 2611111,
+    question:
+      "Quan điểm thứ nhất của “Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” là quan điểm về vấn đề gì?",
+    answer:
+      "Về nhận thức vị trí, vai trò (mối quan hệ) của nông nghiệp, nông dân, nông thôn",
+  },
+  {
+    id: 268,
+    question:
+      "Trong nhiệm vụ, giải pháp thứ hai của “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới”, Trung ương đã nêu ra bao nhiêu nhóm chính sách cụ thể để khuyến khích, phát triển kinh tế tập thể?",
+    answer: "8",
+  },
+  {
+    id: 269,
+    question:
+      "Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII (16/6/2022) đã nêu lên một trong những thành tựu xuất phát từ thực tiễn công tác quản lý sau 20 năm thực hiện Nghị quyết của Ban Chấp hành Trung ương năm Khóa IX (2003) về “tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể, khu vực kinh tế tập thể nước ta” là:",
+    answer:
+      "Nhận thức về kinh tế tập thể, mà trọng tâm là hợp tác xã trong hệ thống chính trị và các tầng lớp nhân dân được nâng lên",
+  },
+  {
+    id: 270,
+    question:
+      "Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” đưa ra bao nhiêu nhiệm vụ, giải pháp chủ yếu để thực hiện mục tiêu về phát triển “nông nghiệp, nông dân, nông thôn” đến năm 2030, tầm nhìn đến năm 2045?",
+    answer: "9",
+  },
+  {
+    id: 271,
+    question:
+      "Nhà nước có hỗ trợ phí tham gia Bảo hiểm Y tế cho sinh viên không?",
+    answer: "Có, hỗ trợ 30%",
+  },
+  {
+    id: 272,
+    question: "Trang web chính thức của Đoàn Hội trường UEH là gì?",
+    answer: "youth.ueh.edu.vn",
+  },
+  {
+    id: 273,
+    question:
+      "Theo quy định đánh giá kết quả rèn luyện sinh viên phiên bản 2022, làm cách nào để tăng điểm rèn luyện?",
+    answer: "Tất cả",
+  },
+  {
+    id: 274,
+    question:
+      "	Tất cả nhan đề bạn tìm thấy qua OneSearch (cổng tìm kiếm thông tin) đều đọc trực tuyến:",
+    answer:
+      "Sai. OneSearch tìm tất cả thông tin, bao gồm sách giấy, sách điện tử (eBook), tạp chí điện tử (eJournal), và tài liệu đa phương tiện (videos, images,…)",
+  },
+  {
+    id: 275,
+    question:
+      "	Căn cứ Điều 62, Luật Giáo dục đại học, người học được hưởng chính sách nào?",
+    answer: "Tất cả các chính sách được nêu",
+  },
+  {
+    id: 276,
+    question:
+      "Nghị quyết của Ban Chấp hành Trung ương Khóa X về “nông nghiệp, nông dân, nông thôn” được thông qua tại Hội nghị Ban Chấp hành Trung ương Đảng lần thứ mấy?",
+    answer: "Hội nghị Ban Chấp hành Trung ương lần thứ bảy (2008)",
+  },
+  {
+    id: 277,
+    question:
+      "Quan điểm: “Kinh tế tập thể phát triển dựa trên sở hữu riêng của thành viên và sở hữu chung của tập thể” là quan điểm về vấn đề gì của “Nghị quyết số 20-NQ/TW của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể trong giai đoạn mới”?",
+    answer: "Về hoạt động của kinh tế tập thể",
+  },
+  {
+    id: 278,
+    question:
+      "Những yếu tố nào sau đây chỉ có trong mô hình Lean Canvas mà không có trong mô hình Business Model Canvas?",
+    answer: "Vấn đề, giải pháp, lợi thế ưu đãi, các số liệu quan trọng",
+  },
+  {
+    id: 279,
+    question:
+      "Nhóm nhiệm vụ, giải pháp thứ nhất trong “Nghị quyết số 19-NQ/TW Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng Khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045” nêu ra…",
+    answer:
+      "Nâng cao vai trò, vị thế, năng lực làm chủ, cải thiện toàn diện đời sống vật chất, tinh thần của nông dân và cư dân nông thôn.",
+  },
+  {
+    id: 280,
+    question: "Quan điểm của Đảng về tổ chức hoạt động của kinh tế tập thể:",
+    answer: "Theo nguyên tắc đối nhân, không phụ thuộc vào vốn góp",
+  },
+  {
+    id: 281,
+    question: "Thời gian nộp Giấy đề nghị miễn, giảm học phí cho Phòng Đào tạo",
+    answer: "Khoảng tháng 01 và tháng 8 hàng năm",
+  },
 ];
